@@ -1,0 +1,15 @@
+body{
+	margin: 20px;
+	padding: 0px;
+	background-color: skyblue;
+}
+
+div#titulo{
+	font-size: 30px;
+	margin: 20px;
+	margin-top: 20px;
+	margin-left: 540px;
+	width: 700px;
+	height: 100px;
+
+}

@@ -1,0 +1,48 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: skyblue;
+}
+
+	div#titulo{
+		font-size: 30px;
+		margin: 20px;
+		margin-left: 540px;
+		margin-top: 20px;
+		width: 700px;
+		height: 100px;
+	}
+
+	div#text{
+		margin-left: 20px;
+		font-size: 20px;
+		border: 2px solid black;
+	}
+
+	div#der{
+		font-size: 20px;
+		margin-left: 20px;
+		width: 500px;
+		margin-left: 600px;
+
+	}
+
+	div#izq{
+		font-size: 20px;
+		margin-left: 20px;
+		width: 500px;
+		margin-left: 600px;
+		margin-bottom: 50px;
+	}
+
+	div#tabla{
+		font-size: 15px;
+		margin: 20px;
+		width: 500px;
+
+
+	}
+
+
+
+
